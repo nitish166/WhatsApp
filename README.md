@@ -1,3 +1,7 @@
+# Live Project Link
+
+Click [https://whats-app-clone-13a44.web.app](https://whats-app-clone-13a44.web.app) to view the live project.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
